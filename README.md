@@ -5,3 +5,8 @@ API yang digunakan : https://www.themoviedb.org
 
 Bahasa yang digunakan : Kotlin
 
+Library yang digunakan : 
+- Facebook Shimmer : https://github.com/facebook/shimmer-android
+- Glide : https://github.com/facebook/shimmer-android
+- Youtube Player : https://github.com/PierfrancescoSoffritti/android-youtube-player
+- Retrofit : https://github.com/square/retrofit

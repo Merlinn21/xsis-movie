@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin & Padding -->
+    <dimen name="extra_small_margin_padding">5dp</dimen>
+    <dimen name="small_margin_padding">10dp</dimen>
+    <dimen name="normal_margin_padding">15dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_title">16sp</dimen>
+    <dimen name="text_label">14sp</dimen>
+
+    <dimen name="carousel_img_width">100dp</dimen>
+    <dimen name="carousel_img_height">150dp</dimen>
+
+    <dimen name="list_img_width">180dp</dimen>
+    <dimen name="list_img_height">270dp</dimen>
+
+    <dimen name="grid_img_height">200dp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="movie_title_placeholder">Movie Title Placeholder</string>
+    <string name="lorem_ipsum">orem ipsum dolor sit amet, consectetur adipiscing elit. Integer dapibus tortor eget risus aliquam euismod at non tortor. Proin pulvinar ante nec imperdiet malesuada. In nec turpis lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Aenean at dui rutrum, lacinia nulla at, vestibulum mi. Etiam rhoncus neque at orci finibus pulvinar. Curabitur at orci vel lorem facilisis egestas. Integer accumsan turpis in faucibus gravida. Vivamus eu sem sit amet urna fermentum fringilla eget ac sem.</string>
+    <string name="latest_movie">Latest Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_summary">No Summary</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="search">Search</string>
+    <string name="netplix">Netplix</string>
+    <string name="search_movie_title">Search Movie Title</string>
+    <string name="search_not_found">Search Not Found</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="empty_search">Search Field is Empty</string>
+</resources>
